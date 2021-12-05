@@ -1,3 +1,4 @@
 x=10
 y=10
-sum=x+y
+z=12
+sum=x+y=z
